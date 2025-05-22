@@ -1,0 +1,50 @@
+.followingPage {
+    padding: 20px;
+    color: white;
+  }
+  
+  .followingList {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .followCard {
+    display: flex;
+    align-items: center;
+    background: #121212;
+    padding: 12px;
+    border-radius: 10px;
+  }
+  
+  .followAvatar {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+  .followInfo {
+    margin-left: 12px;
+    flex-grow: 1;
+  }
+  
+  .followName {
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .followAddress {
+    font-size: 14px;
+    color: gray;
+  }
+  
+  .unfollowBtn {
+    background-color: transparent;
+    border: 1px solid red;
+    padding: 6px 16px;
+    border-radius: 20px;
+    color: red;
+    cursor: pointer;
+  }
+  

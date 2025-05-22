@@ -1,0 +1,26 @@
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  width: 100vw;
+}
+
+.cd {
+  height: 100vh;
+align-items: center;
+display: flex;
+justify-content: center;
+flex-direction: column;
+gap: 20px;
+
+}
+
+.login-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #c0b7b7;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
