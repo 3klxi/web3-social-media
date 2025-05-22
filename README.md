@@ -96,6 +96,3 @@ Forked and inspired by:
 
 > ⚠️ Note: Please ensure your `.env` file includes the required configurations for PostgreSQL, Redis, and contract addresses before launching.
 
-```
-
-
