@@ -1,3 +1,4 @@
+![Static Badge](https://img.shields.io/badge/author-3klxi-green) ![Static Badge](https://img.shields.io/badge/version-0.0.1-orange) ![Static Badge](https://img.shields.io/badge/NodeJS-v22.13.1-blue) ![Static Badge](https://img.shields.io/badge/npm-10.5.2-red) ![Static Badge](https://img.shields.io/badge/express-%405.1.0-green)
 # 🌐 Web3 Social Media DApp
 
 > A decentralized, autonomous social media platform built with Web3, PostgreSQL, and React.
